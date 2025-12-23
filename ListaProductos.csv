@@ -1,0 +1,14 @@
+ID;NOMBRE;DESCRIPCION;CANTIDAD;PRECIO;CATEGORIA
+1;Leche;Lacteos;65;325.3;asdas
+2;Yogurt;Bebible;15;1500.0;Lacteos
+3;Sal;Almacen;5;15.3;Salado
+4;Gotitas;Ojos;15;16800.3;Nose
+5;Aceite;Cocina;10;2800.0;Dasdas
+6;Azucar;Almacen;6;65.0;Comestible
+7;Pepsi;Bebida;65;235.0;Noalcolico
+8;Rollo;Cocina;65;23.0;Cocina
+9;Chicle;Golosina;45;32.2;Comestible
+10;Gomitas;Golosica;654;12.0;Comestible
+11;Cigarrillos;Kiosko;32;1500.0;Tabaco
+12;Alcohol;Sanidad;2;1800.3;Perfumeria
+13;Fuyi;Veneno;4;3500.2;Limpienza
